@@ -1,0 +1,8 @@
+Titulo: the_prince; Qtd Palavras: 52982, Qtd bytes: 307808
+Titulo: A_bird_of_passage_by_B_M_Croker; Qtd Palavras: 133052, Qtd bytes: 773275
+Titulo: Children_of_destiny_by_Molly_Elliot_Seawell; Qtd Palavras: 94574, Qtd bytes: 552212
+Titulo: the_prince; Qtd Palavras: 52982, Qtd bytes: 0.307808
+Titulo: A_bird_of_passage_by_B_M_Croker; Qtd Palavras: 133052, Qtd bytes: 0.773275
+Titulo: Children_of_destiny_by_Molly_Elliot_Seawell; Qtd Palavras: 94574, Qtd bytes: 0.552212
+Titulo: the_prince; Qtd Palavras: 52982, Qtd bytes: 0.307808
+Titulo: A_bird_of_passage_by_B_M_Croker; Qtd Palavras: 133052, Qtd bytes: 0.773275
